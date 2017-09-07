@@ -1,4 +1,9 @@
 ligne2 : ggg
 ligne3 : ggg2
 \nligne 4 : hhgg
+<<<<<<< HEAD
 hhffhfhhfh
+=======
+ssfsdfs
+fsfsfsf
+>>>>>>> 1863b17678ea120368875df8c869dbb39a7869b5
